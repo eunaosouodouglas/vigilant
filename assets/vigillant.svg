@@ -1,0 +1,42 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="512" height="512">
+	<title>2347468-ai</title>
+	<defs>
+		<linearGradient id="g1" x1="692.3" y1="-473.6" x2="1214.5" y2="23.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#444bd3" stop-opacity=".5"/>
+			<stop offset="1" stop-color="#f97aa0" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="894.9" y1="-475.8" x2="1417.2" y2="21.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f97aa0" stop-opacity="1"/>
+			<stop offset="1" stop-color="#444bd3" stop-opacity=".5"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="441.5" y1="718.2" x2="517" y2="642.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1e1959" stop-opacity="1"/>
+			<stop offset=".992" stop-color="#1e1959" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="557.6" y1="282.2" x2="482.1" y2="357.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1e1959" stop-opacity="1"/>
+			<stop offset=".992" stop-color="#1e1959" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { mix-blend-mode: screen;fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { mix-blend-mode: screen;fill: #eaeaea } 
+		.s3 { opacity: .7;mix-blend-mode: multiply;fill: url(#g3) } 
+		.s4 { opacity: .7;mix-blend-mode: multiply;fill: url(#g4) } 
+	</style>
+	<g id="BACKGROUND">
+	</g>
+	<g id="OBJECTS">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m571.6 885.5c-10.3 10.3-27 10.3-37.2 0l-366.7-366.7c-10.3-10.3-10.3-26.9 0-37.2l366.7-366.7c10.2-10.2 26.9-10.2 37.2 0 10.2 10.3 10.2 27 0 37.2l-348.1 348.1 348.1 348.1c10.2 10.3 10.2 26.9 0 37.2zm20 57.2c-10.3-10.3-10.3-26.9 0-37.2 10.3-10.2 26.9-10.2 37.2 0 10.3 10.3 10.3 26.9 0 37.2-10.3 10.3-26.9 10.3-37.2 0zm-2-845.6c-10.2-10.2-10.2-26.9 0-37.2 10.3-10.2 27-10.2 37.2 0 10.3 10.3 10.3 27 0 37.2-10.2 10.3-26.9 10.3-37.2 0z"/>
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s1" d="m831.5 518.8l-366.7 366.7c-10.3 10.3-26.9 10.3-37.2 0-10.3-10.3-10.3-26.9 0-37.2l348.1-348.1-348.1-348.1c-10.3-10.2-10.3-26.9 0-37.2 10.3-10.2 26.9-10.2 37.2 0l366.7 366.7c10.2 10.3 10.2 26.9 0 37.2zm-424-461.1c10.3 10.3 10.3 26.9 0 37.2-10.2 10.3-26.9 10.3-37.2 0-10.2-10.3-10.2-26.9 0-37.2 10.3-10.3 27-10.3 37.2 0zm-35.2 882.8c-10.3-10.3-10.3-26.9 0-37.2 10.3-10.3 26.9-10.3 37.2 0 10.3 10.3 10.3 26.9 0 37.2-10.3 10.3-26.9 10.3-37.2 0z"/>
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s2" d="m576.6 577.2c-42.5 42.5-111.5 42.5-154 0-42.5-42.5-42.5-111.5 0-154 42.5-42.5 111.5-42.5 154 0 42.5 42.5 42.5 111.5 0 154zm-32.1-32c24.8-24.9 24.8-65.1 0-89.9-24.8-24.9-65-24.9-89.9 0-24.8 24.8-24.8 65 0 89.9 24.9 24.8 65.1 24.8 89.9 0z"/>
+			<path id="&lt;Compound Path&gt;" class="s2" d="m522.3 477.5c-12.6-12.6-32.9-12.6-45.4 0-12.6 12.5-12.6 32.9 0 45.4 12.5 12.6 32.8 12.6 45.4 0 12.5-12.5 12.5-32.9 0-45.4z"/>
+			<path id="&lt;Path&gt;" class="s3" d="m536.8 813.5l-37.2-37.2 75.5-75.5 37.2 37.2z"/>
+			<path id="&lt;Path&gt;" class="s4" d="m462.4 186.9l37.2 37.2-75.5 75.6-37.2-37.2z"/>
+		</g>
+	</g>
+	<g id="DESIGNED BY FREEPIK">
+	</g>
+</svg>

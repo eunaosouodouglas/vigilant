@@ -1,0 +1,1 @@
+git clone https://github.com/eunaosouodouglas/vigilant /home/$USER/vigilant && cd /home/$USER/vigilant && docker build -t vigilant . && docker run -d -p 80:80 --name vigilant -v "$PWD":/var/www/html vigilant && sudo chown www-data:www-data -R "$PWD"
